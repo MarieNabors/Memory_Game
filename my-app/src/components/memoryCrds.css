@@ -5,11 +5,16 @@
 .img {
     width: 150px;
     height: 150px;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 10px;
+
 }
 
 .card {
     display: inline;
     margin: 15px;
+   
     /* border: solid rgb(8, 15, 26) 3px; */
     /* background-color: aquamarine */
 }
